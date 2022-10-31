@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
-"""This module contains the State subclass
-"""
+#!/usr/bin/python3
+"""file contains State class"""
+
 from models.base_model import BaseModel
 
 

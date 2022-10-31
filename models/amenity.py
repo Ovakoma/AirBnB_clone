@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
-"""This module has an Amenity subclass
-"""
+#!/usr/bin/python3
+"""file contains Amenity class"""
+
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """defines the Amenity"""
+    """This class also inherits from the BaseModel class"""
     name = ""

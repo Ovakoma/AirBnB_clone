@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
-"""This module has a City subclass
-"""
+#!/usr/bin/python3
+"""file contains City class"""
+
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """defines the City"""
+    """This class inherits from the BaseModel class"""
     state_id = ""
     name = ""

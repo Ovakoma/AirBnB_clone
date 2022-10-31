@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
-"""This deserializes json file"""
+#!/usr/bin/python3
+"""creates unique FileStorage instance for application"""
+
 
 from models.engine.file_storage import FileStorage
 

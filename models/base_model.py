@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""
-This module contains the BaseModel class
-"""
+"""file contains BaseModel class"""
+
 import uuid
-from datetime import datetime
+from datetime import datetime, time, date
 import models
 
 
